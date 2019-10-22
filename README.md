@@ -9,4 +9,4 @@ What am doing here is trying to update this great sample to current TS version (
  - Update tasks in gulp config.
  - Update the decorators for `view` and `model`.
 # TODO
- - Update `view`, `model`, `controller` to use `abstract class` provide in TS.
+ - [ ] Update `view`, `model`, `controller` to use `abstract class` provide in TS.
