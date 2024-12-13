@@ -31,7 +31,7 @@
     "browser-sync": "^3.0.3",
     "browserify": "^16.5.0",
     "chai": "^4.2.0",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-coveralls": "^0.1.4",
     "gulp-tslint": "^8.1.4",
     "gulp-typescript": "^5.0.1",
